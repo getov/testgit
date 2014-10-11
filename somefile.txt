@@ -1,4 +1,5 @@
 hub
+gosho edit 1
 mub
 tuk
 pesho edit 1
